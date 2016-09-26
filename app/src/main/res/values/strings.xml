@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">database1</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="title_activity_regitser">Regitser</string>
+    <string name="title_activity_list_users">ListUsers</string>
+    <string name="title_activity_delete_user">DeleteUser</string>
+</resources>
